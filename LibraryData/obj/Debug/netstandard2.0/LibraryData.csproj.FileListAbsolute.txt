@@ -1,0 +1,9 @@
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+C:\Users\R. Fan\Source\Repos\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
